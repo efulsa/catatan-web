@@ -29,7 +29,7 @@ $daftar = $pdo->query('SELECT id, isi, dibuat FROM catatan ORDER BY id DESC')->f
   <title>Aplikasi Catatan BERHASILLLLLLLLLLLLLLL</title>
 </head>
 <body>
-  <h1>Aplikasi Catatan GIWWWWWWWWWWWWWWWWWWWWW</h1>
+  <h1>Aplikasi Catatan GIWWW</h1>
   <form method="post">
     <input type="text" name="isi" placeholder="Tulis catatan..." required>
     <button type="submit">Simpan</button>
